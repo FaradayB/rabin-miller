@@ -7,9 +7,8 @@ Kelompok:
 
 Berikut merupakan tugas kami terkait:
 Tugas 4 part 1: Rabin-Miller Primality Test
-Tugas 4 part 2: Rangkuman dan Program ECC (Eliptical Curve Cryptography)
 
-====================================================================================================
+
 TUGAS 4 PART 1
 Pada tugas ini, kami mengimplementasikan sebuah algoritma untuk pencarian angka prima atau bukan
 yang dibuat oleh Miller dan Rabin. Pada algoritma ini, terdapat 3 langkah penting:
@@ -49,12 +48,3 @@ m = angka yang dipangkatkan untuk mendapatkan b0
 b0 = angka b yang didapatkan saat iterasi ke 0
 bi = angka b yang didapatkan saat iterasi setelah ke 0
 bi-1 = angka b yang didapatkan pada iterasi sebelumnya
-
-
-
-
-
-========================================================================================================
-TUGAS 4 PART 2
-
-Terdapat rangkuman pada folder
